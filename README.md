@@ -8,15 +8,15 @@ You can try the calculator online [here](https://afkeomre.github.io/calculator/)
 
 ## Features
 
- - Basic Arithmetic Operations: supports addition `+`, subtraction `-`, multiplication `*`, and division `÷`.
- - Decimal Point: a button `.` is provided for entering decimal numbers.
- - Reset Button `AC`: clears the current input and resets the calculator.
- - Sign Toggle `+/-`: switches the current number between positive and negative values.
+ - **Basic Arithmetic Operations**: supports addition `+`, subtraction `-`, multiplication `*`, and division `÷`.
+ - **Decimal Point**: a button `.` is provided for entering decimal numbers.
+ - **Reset Button `AC`**: clears the current input and resets the calculator.
+ - **Sign Toggle `+/-`**: switches the current number between positive and negative values.
 
 ## Technologies Used
- - Vue.js: JavaScript framework for building user interfaces.
- - HTML5 & CSS3: for structuring and styling the calculator.
- - JavaScript: for implementing calculator logic.
+ - **Vue.js**: JavaScript framework for building user interfaces.
+ - **HTML5 & CSS3**: for structuring and styling the calculator.
+ - **JavaScript**: for implementing calculator logic.
 
 ## Project setup
 ```
