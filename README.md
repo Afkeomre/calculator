@@ -2,7 +2,7 @@
 
 This is a simple calculator built using Vue.js. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Additionally, it includes several useful features like decimal calculations, a reset button, and a toggle for switching between positive and negative numbers.
 
-## Demo
+## Website
 
 You can try the calculator online [here](https://afkeomre.github.io/calculator/).
 
